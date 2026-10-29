@@ -1,0 +1,4 @@
+edge-tts --list-voices | findstr ur-PK
+edge-tts --voice ur-PK-UzmaNeural --file test_ur.txt --write-media test_edge_uzma.mp3
+edge-tts --voice ur-PK-AsadNeural --file test_ur.txt --write-media test_edge_asad.mp3
+gtts-cli --file test_ur.txt --lang ur --output test_gtts.mp3
