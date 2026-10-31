@@ -1,0 +1,13 @@
+torch
+torchaudio
+transformers
+librosa
+soundfile
+pandas
+numpy
+scikit-learn
+tqdm
+edge-tts
+gTTS
+huggingface_hub
+faster-whisper

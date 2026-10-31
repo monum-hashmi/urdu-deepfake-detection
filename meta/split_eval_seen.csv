@@ -1,0 +1,1599 @@
+path,label,generator,speaker,split,condition
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\10.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\100.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\101.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\102.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\103.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\105.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\111.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\114.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\115.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\116.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\117.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\128.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\129.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\139.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\14.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\15.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\16.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\17.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\248.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\249.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\260.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\261.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\262.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\263.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\267.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\273.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\274.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\275.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\276.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\277.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\28.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\288.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\289.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\29.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\298.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\300.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\301.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\302.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\303.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\306.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\307.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\313.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\314.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\315.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\316.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\317.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\328.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\329.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\38.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\448.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\449.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\458.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\459.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\460.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\461.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\464.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\465.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\466.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\467.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\470.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\471.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\472.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\473.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\474.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\475.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\498.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\499.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\501.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\504.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\505.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\506.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\507.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\510.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\511.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\512.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\513.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\515.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\529.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\538.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\539.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\658.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\659.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\663.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\664.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\665.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\666.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\667.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\670.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\671.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\672.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\673.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\677.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\688.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\698.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\699.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\703.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\704.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\705.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\706.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 1\707.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\10.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\100.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\101.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\102.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\103.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\104.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\105.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\106.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\107.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\11.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\110.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\111.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\112.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\113.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\114.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\115.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\116.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\117.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\12.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\128.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\129.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\13.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\138.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\139.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\14.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\15.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\16.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\17.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\202.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\216.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\248.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\249.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\258.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\259.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\260.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\261.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\262.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\263.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\264.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\265.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\266.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\267.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\270.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\271.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\272.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\273.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\274.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\275.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\276.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\277.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\28.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\288.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\289.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\29.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\298.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\299.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\300.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\301.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\302.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\303.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\304.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\305.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\306.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\307.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\310.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\311.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\312.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\313.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\314.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\315.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\316.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\317.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\328.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\329.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\338.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\339.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\38.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\39.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\448.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\449.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\458.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\459.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\460.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\461.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\462.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\463.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\464.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\465.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\466.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\467.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\470.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\471.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\472.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\473.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\474.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\475.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\476.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\477.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\488.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_03\Part 2\489.wav,bonafide,real,Speaker_03,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\10.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\100.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\101.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\102.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\103.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\105.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\111.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\114.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\115.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\116.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\117.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\128.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\129.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\139.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\14.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\15.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\16.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\17.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\248.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\249.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\260.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\261.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\262.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\263.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\267.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\273.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\274.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\275.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\276.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\277.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\28.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\288.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\289.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\29.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\298.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\300.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\301.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\302.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\303.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\306.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\307.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\313.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\314.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\315.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\316.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\317.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\328.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\329.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\38.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\448.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\449.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\458.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\459.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\460.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\461.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\464.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\465.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\466.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\467.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\470.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\471.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\472.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\473.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\474.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\475.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\498.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\499.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\501.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\504.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\505.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\506.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\507.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\510.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\511.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\512.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\513.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\515.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\529.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\538.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\539.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\658.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\659.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\663.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\664.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\665.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\666.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\667.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\670.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\671.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\672.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\673.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\677.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\688.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\698.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\699.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\703.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\704.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\705.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\706.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 1\707.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\10.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\100.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\101.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\102.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\103.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\104.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\105.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\106.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\107.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\11.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\110.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\111.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\112.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\113.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\114.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\115.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\116.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\117.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\12.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\128.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\129.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\13.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\138.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\139.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\14.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\15.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\16.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\17.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\202.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\216.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\248.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\249.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\258.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\259.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\260.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\261.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\262.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\263.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\264.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\265.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\266.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\267.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\270.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\271.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\272.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\273.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\274.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\275.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\276.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\277.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\28.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\288.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\289.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\29.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\298.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\299.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\300.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\301.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\302.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\303.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\304.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\305.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\306.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\307.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\310.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\311.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\312.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\313.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\314.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\315.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\316.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\317.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\328.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\329.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\338.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\339.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\38.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\39.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\448.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\449.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\458.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\459.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\460.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\461.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\462.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\463.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\464.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\465.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\466.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\467.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\470.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\471.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\472.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\473.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\474.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\475.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\476.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\477.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\488.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_07\Part 2\489.wav,bonafide,real,Speaker_07,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\10.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\100.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\101.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\102.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\103.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\105.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\111.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\114.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\115.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\116.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\117.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\128.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\129.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\139.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\14.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\15.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\16.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\17.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\248.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\249.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\260.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\261.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\262.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\263.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\267.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\273.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\274.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\275.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\276.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\277.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\28.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\288.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\289.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\29.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\298.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\300.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\301.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\302.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\303.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\306.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\307.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\313.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\314.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\315.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\316.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\317.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\328.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\329.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\38.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\448.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\449.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\458.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\459.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\460.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\461.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\464.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\465.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\466.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\467.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\470.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\471.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\472.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\473.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\474.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\475.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\498.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\499.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\501.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\504.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\505.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\506.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\507.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\510.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\511.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\512.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\513.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\515.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\529.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\538.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\539.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\658.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\659.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\663.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\664.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\665.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\666.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\667.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\670.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\671.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\672.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\673.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\677.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\688.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\698.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\699.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\703.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\704.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\705.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\706.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 1\707.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\10.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\100.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\101.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\102.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\103.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\104.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\105.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\106.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\107.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\11.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\110.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\111.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\112.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\113.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\114.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\115.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\116.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\117.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\12.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\128.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\129.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\13.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\138.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\139.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\14.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\15.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\16.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\17.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\202.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\216.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\248.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\249.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\258.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\259.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\260.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\261.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\262.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\263.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\264.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\265.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\266.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\267.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\270.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\271.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\272.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\273.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\274.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\275.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\276.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\277.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\28.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\288.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\289.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\29.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\298.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\299.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\300.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\301.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\302.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\303.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\304.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\305.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\306.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\307.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\310.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\311.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\312.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\313.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\314.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\315.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\316.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\317.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\328.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\329.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\338.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\339.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\38.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\39.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\448.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\449.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\458.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\459.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\460.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\461.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\462.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\463.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\464.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\465.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\466.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\467.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\470.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\471.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\472.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\473.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\474.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\475.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\476.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\477.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\488.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_11\Part 2\489.wav,bonafide,real,Speaker_11,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\10.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\100.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\101.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\102.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\103.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\105.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\111.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\114.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\115.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\116.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\117.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\128.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\129.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\139.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\14.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\15.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\16.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\17.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\248.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\249.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\260.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\261.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\262.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\263.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\267.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\273.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\274.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\275.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\276.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\277.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\28.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\288.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\289.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\29.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\298.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\300.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\301.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\302.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\303.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\306.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\307.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\313.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\314.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\315.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\316.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\317.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\328.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\329.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\38.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\448.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\449.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\458.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\459.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\460.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\461.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\464.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\465.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\466.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\467.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\470.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\471.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\472.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\473.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\474.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\475.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\498.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\499.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\501.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\504.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\505.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\506.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\507.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\510.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\511.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\512.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\513.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\515.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\529.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\538.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\539.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\658.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\659.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\663.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\664.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\665.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\666.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\667.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\670.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\671.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\672.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\673.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\677.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\688.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\698.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\699.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\703.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\704.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\705.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\706.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 1\707.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\10.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\100.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\101.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\102.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\103.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\104.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\105.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\106.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\107.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\11.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\110.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\111.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\112.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\113.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\114.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\115.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\116.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\117.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\12.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\128.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\129.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\13.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\138.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\139.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\14.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\15.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\16.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\17.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\216.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\248.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\249.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\258.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\259.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\260.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\261.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\262.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\263.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\264.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\265.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\266.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\267.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\270.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\271.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\272.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\273.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\274.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\275.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\276.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\277.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\28.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\288.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\289.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\29.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\298.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\299.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\300.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\301.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\302.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\303.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\304.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\305.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\306.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\307.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\310.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\311.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\312.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\313.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\314.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\315.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\316.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\317.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\328.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\329.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\338.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\339.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\38.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\39.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\448.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\449.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\458.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\459.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\460.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\461.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\462.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\463.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\464.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\465.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\466.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\467.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\470.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\471.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\472.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\473.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\474.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\475.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\476.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\477.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\488.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Bonafide\Speaker_15\Part 2\489.wav,bonafide,real,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\10.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\100.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\101.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\102.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\103.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\104.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\105.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\106.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\107.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\11.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\110.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\111.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\112.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\113.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\114.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\115.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\116.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\117.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\12.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\128.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\129.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\13.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\138.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\139.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\14.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\15.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\16.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\17.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\202.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\216.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\248.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\249.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\258.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\259.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\260.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\261.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\262.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\263.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\264.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\265.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\266.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\267.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\270.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\271.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\272.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\273.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\274.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\275.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\276.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\277.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\28.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\288.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\289.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\29.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\298.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\299.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\300.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\301.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\302.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\303.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\304.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\305.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\306.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\307.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\310.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\311.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\312.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\313.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\314.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\315.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\316.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\317.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\328.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\329.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\338.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\339.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\38.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\39.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\448.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\449.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\458.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\459.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\460.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\461.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\462.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\463.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\464.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\465.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\466.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\467.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\470.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\471.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\472.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\473.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\474.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\475.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\476.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\477.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\488.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_03\489.wav,spoof,vits,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\10.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\100.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\101.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\102.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\103.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\104.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\105.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\106.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\107.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\11.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\110.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\111.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\112.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\113.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\114.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\115.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\116.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\117.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\12.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\128.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\129.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\13.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\138.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\139.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\14.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\15.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\16.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\17.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\216.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\248.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\249.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\258.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\259.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\260.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\261.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\262.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\263.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\264.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\265.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\266.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\267.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\270.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\271.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\272.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\273.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\274.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\275.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\276.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\277.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\28.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\288.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\289.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\29.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\298.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\299.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\300.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\301.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\302.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\303.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\304.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\305.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\306.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\307.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\310.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\311.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\312.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\313.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\314.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\315.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\316.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\317.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\328.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\329.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\338.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\339.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\38.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\39.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\448.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\449.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\458.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\459.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\460.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\461.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\462.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\463.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\464.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\465.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\466.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\467.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\470.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\471.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\472.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\473.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\474.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\475.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\476.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\477.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\488.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_07\489.wav,spoof,vits,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\10.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\100.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\101.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\102.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\103.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\104.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\105.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\106.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\107.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\11.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\110.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\111.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\112.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\113.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\114.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\115.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\116.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\117.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\12.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\128.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\129.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\13.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\138.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\139.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\14.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\15.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\16.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\17.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\202.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\216.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\248.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\249.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\258.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\259.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\260.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\261.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\262.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\263.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\264.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\265.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\266.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\267.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\270.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\271.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\272.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\273.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\274.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\275.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\276.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\277.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\28.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\288.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\289.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\29.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\298.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\299.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\300.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\301.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\302.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\303.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\304.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\305.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\306.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\307.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\310.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\311.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\312.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\313.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\314.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\315.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\316.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\317.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\328.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\329.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\338.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\339.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\38.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\39.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\448.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\449.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\458.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\459.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\460.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\461.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\462.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\463.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\464.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\465.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\466.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\467.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\470.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\471.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\472.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\473.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\474.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\475.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\476.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\477.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\488.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_11\489.wav,spoof,vits,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\10.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\100.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\101.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\102.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\103.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\104.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\105.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\106.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\107.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\11.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\110.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\111.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\112.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\113.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\114.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\115.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\116.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\117.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\12.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\128.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\129.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\13.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\138.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\139.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\14.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\15.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\16.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\17.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\202.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\216.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\248.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\249.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\258.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\259.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\260.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\261.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\262.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\263.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\264.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\265.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\266.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\267.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\270.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\271.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\272.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\273.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\274.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\275.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\276.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\277.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\28.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\288.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\289.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\29.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\298.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\299.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\300.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\301.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\302.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\303.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\304.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\305.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\306.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\307.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\310.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\311.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\312.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\313.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\314.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\315.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\316.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\317.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\328.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\329.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\338.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\339.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\38.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\39.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\448.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\449.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\458.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\459.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\460.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\461.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\462.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\463.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\464.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\465.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\466.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\467.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\470.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\471.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\472.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\473.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\474.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\475.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\476.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\477.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\488.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_TTS\Speaker_15\489.wav,spoof,vits,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\10.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\100.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\101.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\102.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\103.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\104.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\105.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\106.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\107.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\11.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\110.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\111.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\112.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\113.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\114.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\115.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\116.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\117.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\12.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\128.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\129.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\13.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\138.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\139.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\14.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\15.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\16.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\17.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\202.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\216.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\248.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\249.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\258.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\259.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\260.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\261.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\262.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\263.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\264.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\265.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\266.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\267.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\270.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\271.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\272.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\273.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\274.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\275.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\276.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\277.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\28.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\288.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\289.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\29.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\298.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\299.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\300.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\301.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\302.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\303.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\304.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\305.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\306.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\307.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\310.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\311.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\312.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\313.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\314.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\315.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\316.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\317.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\328.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\329.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\338.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\339.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\38.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\39.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\448.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\449.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\458.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\459.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\460.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\461.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\462.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\463.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\464.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\465.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\466.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\467.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\470.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\471.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\472.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\473.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\474.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\475.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\476.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\477.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\488.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_03\489.wav,spoof,tacotron,Speaker_03,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\10.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\100.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\101.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\102.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\103.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\104.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\105.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\106.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\107.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\11.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\110.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\111.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\112.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\113.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\114.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\115.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\116.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\117.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\12.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\128.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\129.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\13.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\138.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\139.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\14.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\15.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\16.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\17.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\202.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\216.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\248.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\249.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\258.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\259.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\260.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\261.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\262.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\263.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\264.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\265.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\266.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\267.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\270.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\271.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\272.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\273.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\274.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\275.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\276.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\277.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\28.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\288.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\289.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\29.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\298.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\299.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\300.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\301.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\302.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\303.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\304.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\305.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\306.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\307.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\310.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\311.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\312.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\313.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\314.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\315.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\316.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\317.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\328.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\329.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\338.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\339.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\38.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\39.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\448.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\449.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\458.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\459.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\460.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\461.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\462.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\463.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\464.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\465.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\466.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\467.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\470.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\471.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\472.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\473.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\474.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\475.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\476.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\477.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\488.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_07\489.wav,spoof,tacotron,Speaker_07,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\10.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\100.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\101.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\102.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\103.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\104.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\105.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\106.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\107.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\11.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\110.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\111.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\112.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\113.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\114.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\115.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\116.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\117.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\12.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\128.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\129.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\13.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\138.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\139.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\14.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\15.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\16.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\17.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\202.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\216.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\248.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\249.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\258.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\259.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\260.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\261.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\262.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\263.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\264.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\265.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\266.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\267.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\270.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\271.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\272.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\273.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\274.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\275.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\276.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\277.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\28.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\288.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\289.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\29.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\298.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\299.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\300.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\301.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\302.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\303.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\304.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\305.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\306.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\307.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\310.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\311.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\312.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\313.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\314.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\315.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\316.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\317.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\328.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\329.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\338.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\339.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\38.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\39.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\448.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\449.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\458.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\459.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\460.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\461.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\462.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\463.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\464.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\465.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\466.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\467.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\470.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\471.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\472.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\473.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\474.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\475.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\476.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\477.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\488.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_11\489.wav,spoof,tacotron,Speaker_11,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\10.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\100.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\101.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\102.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\103.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\104.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\105.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\106.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\107.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\11.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\110.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\111.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\112.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\113.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\114.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\115.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\116.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\117.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\12.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\128.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\129.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\13.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\138.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\139.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\14.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\15.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\16.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\17.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\202.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\216.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\248.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\249.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\258.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\259.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\260.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\261.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\262.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\263.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\264.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\265.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\266.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\267.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\270.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\271.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\272.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\273.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\274.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\275.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\276.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\277.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\28.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\288.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\289.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\29.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\298.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\299.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\300.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\301.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\302.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\303.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\304.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\305.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\306.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\307.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\310.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\311.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\312.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\313.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\314.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\315.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\316.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\317.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\328.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\329.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\338.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\339.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\38.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\39.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\448.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\449.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\458.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\459.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\460.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\461.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\462.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\463.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\464.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\465.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\466.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\467.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\470.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\471.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\472.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\473.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\474.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\475.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\476.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\477.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\488.wav,spoof,tacotron,Speaker_15,test,seen_generators
+data\urdu_deepfake\Spoofed_Tacotron\Speaker_15\489.wav,spoof,tacotron,Speaker_15,test,seen_generators
