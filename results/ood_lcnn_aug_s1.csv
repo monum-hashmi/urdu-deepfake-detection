@@ -1,0 +1,10 @@
+run,metric,generator,value
+lcnn_aug_s1,fa_ood,real_fleurs,24.719101123595504
+lcnn_aug_s1,fa_indomain,real,20.02503128911139
+lcnn_aug_s1,eer_ood,ALL,29.49775158369377
+lcnn_aug_s1,eer_ood,edge_asad,28.3715540001228
+lcnn_aug_s1,eer_ood,edge_uzma,31.696291520844845
+lcnn_aug_s1,eer_ood,gtts,48.31997912445508
+lcnn_aug_s1,eer_ood,mms,10.281589611346474
+lcnn_aug_s1,eer_ood,tacotron,0.8745318352059935
+lcnn_aug_s1,eer_ood,vits,30.018867393202104
