@@ -39,6 +39,11 @@ def score_run(ckpt, device):
         model = LCNN().to(device)
         model.load_state_dict(torch.load(ckpt, map_location=device))
         s_seen, s_ood = score(model, seen, device, 32), score(model, ood, device, 32)
+    elif run.startswith("aasist"):
+        from train_aasist import build_model, score
+        model = build_model().to(device)
+        model.load_state_dict(torch.load(ckpt, map_location=device))
+        s_seen, s_ood = score(model, seen, device), score(model, ood, device)
     else:
         return None
 
