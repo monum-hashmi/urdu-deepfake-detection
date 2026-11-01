@@ -36,7 +36,8 @@ def main():
     model = Wav2Vec2Model.from_pretrained(args.model, dtype=dtype).to(device).eval()
     print(f"Model {args.model} on {device}")
 
-    splits = {n: read_split(n) for n in ["train", "dev", "eval_seen", "eval_unseen"]}
+    splits = {n: read_split(n) for n in ["train", "dev", "eval_seen", "eval_unseen", "eval_ood"]
+              if os.path.exists(os.path.join("meta", f"split_{n}.csv"))}
     clean = pd.concat(splits.values()).path.unique().tolist()
     augd = pd.concat([splits["train"], splits["dev"]]).path.unique().tolist()
     jobs = [(p, False) for p in clean] + [(p, True) for p in augd]

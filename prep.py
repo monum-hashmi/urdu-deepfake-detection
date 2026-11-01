@@ -56,7 +56,8 @@ def job(args):
 
 
 if __name__ == "__main__":
-    splits = {n: read_split(n) for n in ["train", "dev", "eval_seen", "eval_unseen"]}
+    splits = {n: read_split(n) for n in ["train", "dev", "eval_seen", "eval_unseen", "eval_ood"]
+              if os.path.exists(os.path.join("meta", f"split_{n}.csv"))}
     all_paths = pd.concat(splits.values()).path.unique().tolist()
     aug_paths = pd.concat([splits["train"], splits["dev"]]).path.unique().tolist()
     jobs = [(p, False, 0) for p in all_paths] + \
