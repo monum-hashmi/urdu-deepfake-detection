@@ -1,0 +1,10 @@
+run,metric,generator,value
+aasistL-pretrained_s0,fa_ood,real_fleurs,17.97752808988764
+aasistL-pretrained_s0,fa_indomain,real,40.80100125156446
+aasistL-pretrained_s0,eer_ood,ALL,45.027344499855005
+aasistL-pretrained_s0,eer_ood,edge_asad,67.21196352919506
+aasistL-pretrained_s0,eer_ood,edge_uzma,65.95060477681587
+aasistL-pretrained_s0,eer_ood,gtts,21.909344876281693
+aasistL-pretrained_s0,eer_ood,mms,46.37671148768957
+aasistL-pretrained_s0,eer_ood,tacotron,15.42790262172285
+aasistL-pretrained_s0,eer_ood,vits,35.58474838782349
