@@ -2,6 +2,8 @@
 Trains on cached features from extract_ssl.py, so it runs in minutes even on CPU.
 
 Run:  python train_ssl.py --seed 0            (no augmentation)
+      python train_ssl.py --seed 0 --tag whisper  (frozen Whisper-small encoder features)
+      python train_ssl.py --seed 0 --train_gen vits   (leave-one-generator-out)
       python train_ssl.py --seed 0 --aug      (codec augmentation: 50% of train clips use MP3 copy)
 Results -> results/eer_ssl-xlsr_*.csv  and the learned layer weights in results/layers_*.csv
 """
@@ -53,15 +55,22 @@ def main():
     ap.add_argument("--bs", type=int, default=64)
     ap.add_argument("--lr", type=float, default=1e-3)
     ap.add_argument("--patience", type=int, default=10)
+    ap.add_argument("--train_gen", choices=["vits", "tacotron"], default=None,
+                    help="leave-one-generator-out: train (and select) on this spoof generator only")
     args = ap.parse_args()
 
     torch.manual_seed(args.seed)
     rng = np.random.default_rng(args.seed)
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    run = f"ssl-{args.tag}_{'aug' if args.aug else 'noaug'}_s{args.seed}"
+    lo = f"_tr{args.train_gen}" if args.train_gen else ""
+    run = f"ssl-{args.tag}_{'aug' if args.aug else 'noaug'}{lo}_s{args.seed}"
     print(f"Run {run} on {device}")
 
     train, dev = read_split("train"), read_split("dev")
+    if args.train_gen:
+        keep = lambda d: d[(d.y == 1) | (d.generator == args.train_gen)].reset_index(drop=True)
+        train, dev = keep(train), keep(dev)
+        print(f"Leave-one-generator-out: spoof training data = {args.train_gen} only")
     Xtr = load_feats(train, args.tag)
     Xtr_aug = load_feats(train, args.tag, aug=True) if args.aug else None
     Xdev = load_feats(dev, args.tag)
