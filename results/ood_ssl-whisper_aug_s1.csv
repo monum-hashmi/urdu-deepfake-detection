@@ -1,0 +1,10 @@
+run,metric,generator,value
+ssl-whisper_aug_s1,fa_ood,real_fleurs,9.737827715355806
+ssl-whisper_aug_s1,fa_indomain,real,10.888610763454318
+ssl-whisper_aug_s1,eer_ood,ALL,15.995000796441742
+ssl-whisper_aug_s1,eer_ood,edge_asad,13.521520230858966
+ssl-whisper_aug_s1,eer_ood,edge_uzma,5.677841223061339
+ssl-whisper_aug_s1,eer_ood,gtts,5.575382206667896
+ssl-whisper_aug_s1,eer_ood,mms,39.335052495855585
+ssl-whisper_aug_s1,eer_ood,tacotron,5.371722846441948
+ssl-whisper_aug_s1,eer_ood,vits,14.00833544535496
