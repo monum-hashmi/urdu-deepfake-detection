@@ -1,13 +1,15 @@
+# Install PyTorch first (GPU: --index-url https://download.pytorch.org/whl/cu128 ; CPU: .../whl/cpu)
 torch
 torchaudio
 transformers
+huggingface_hub
 librosa
 soundfile
-pandas
 numpy
+pandas
 scikit-learn
+matplotlib
 tqdm
 edge-tts
 gTTS
-huggingface_hub
 faster-whisper
