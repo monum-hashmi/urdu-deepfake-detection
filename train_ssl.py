@@ -15,21 +15,37 @@ import pandas as pd
 import torch
 import torch.nn as nn
 
-from common import eer, read_split, save_results
+from common import eer, read_split, save_results, split_names
 from extract_ssl import feat_path
 
 
 class LayerMLP(nn.Module):
-    def __init__(self, n_layers, dim, hidden=256, drop=0.3):
+    """pool = learned (softmax layer weights), uniform (fixed equal weights) or layer (single layer K)."""
+
+    def __init__(self, n_layers, dim, hidden=256, drop=0.3, pool="learned", layer=0):
         super().__init__()
-        self.lw = nn.Parameter(torch.zeros(n_layers))
+        self.pool, self.layer = pool, layer
+        self.lw = nn.Parameter(torch.zeros(n_layers), requires_grad=(pool == "learned"))
         self.norm = nn.LayerNorm(dim)
         self.mlp = nn.Sequential(nn.Dropout(drop), nn.Linear(dim, hidden), nn.GELU(),
                                  nn.Dropout(drop), nn.Linear(hidden, 2))
 
     def forward(self, x):                                   # x: [B, L, D]
-        w = torch.softmax(self.lw, dim=0)
-        return self.mlp(self.norm((x * w[None, :, None]).sum(1)))
+        if self.pool == "layer":
+            h = x[:, self.layer]
+        else:
+            w = torch.softmax(self.lw, dim=0)
+            h = (x * w[None, :, None]).sum(1)
+        return self.mlp(self.norm(h))
+
+
+def pool_from_run(run):
+    """Recover pooling config from a run name (used by score_ood.py)."""
+    import re
+    m = re.search(r"_layer(\d+)", run)
+    if m:
+        return "layer", int(m.group(1))
+    return ("uniform", 0) if "_uniform" in run else ("learned", 0)
 
 
 def load_feats(df, tag, aug=False):
@@ -55,6 +71,8 @@ def main():
     ap.add_argument("--bs", type=int, default=64)
     ap.add_argument("--lr", type=float, default=1e-3)
     ap.add_argument("--patience", type=int, default=10)
+    ap.add_argument("--pool", choices=["learned", "uniform", "layer"], default="learned")
+    ap.add_argument("--layer", type=int, default=5, help="layer index for --pool layer")
     ap.add_argument("--train_gen", choices=["vits", "tacotron"], default=None,
                     help="leave-one-generator-out: train (and select) on this spoof generator only")
     args = ap.parse_args()
@@ -63,7 +81,8 @@ def main():
     rng = np.random.default_rng(args.seed)
     device = "cuda" if torch.cuda.is_available() else "cpu"
     lo = f"_tr{args.train_gen}" if args.train_gen else ""
-    run = f"ssl-{args.tag}_{'aug' if args.aug else 'noaug'}{lo}_s{args.seed}"
+    po = {"learned": "", "uniform": "_uniform", "layer": f"_layer{args.layer}"}[args.pool]
+    run = f"ssl-{args.tag}_{'aug' if args.aug else 'noaug'}{lo}{po}_s{args.seed}"
     print(f"Run {run} on {device}")
 
     train, dev = read_split("train"), read_split("dev")
@@ -75,7 +94,7 @@ def main():
     Xtr_aug = load_feats(train, args.tag, aug=True) if args.aug else None
     Xdev = load_feats(dev, args.tag)
     ytr = torch.tensor(train.y.values)
-    model = LayerMLP(Xtr.shape[1], Xtr.shape[2]).to(device)
+    model = LayerMLP(Xtr.shape[1], Xtr.shape[2], pool=args.pool, layer=args.layer).to(device)
     opt = torch.optim.AdamW(model.parameters(), lr=args.lr, weight_decay=1e-2)
     w = torch.tensor([1.0, (train.y == 0).sum() / max(1, (train.y == 1).sum())], dtype=torch.float32)
     lossf = nn.CrossEntropyLoss(weight=w.to(device))
@@ -117,7 +136,7 @@ def main():
     pd.DataFrame({"layer": range(len(lw)), "weight": lw}).to_csv(f"results/layers_{run}.csv", index=False)
 
     parts = []
-    for name in ["eval_seen", "eval_unseen"]:
+    for name in [n for n in split_names(include_ood=False) if n.startswith("eval_")]:
         df = read_split(name)
         df["score"] = scores(model, load_feats(df, args.tag), device)
         parts.append(df)

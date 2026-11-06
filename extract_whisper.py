@@ -14,7 +14,7 @@ import pandas as pd
 import torch
 from transformers import WhisperFeatureExtractor, WhisperModel
 
-from common import SEG, SR, fix_len, load_prep, read_split
+from common import SEG, SR, fix_len, load_prep, read_split, split_names
 from extract_ssl import feat_path
 
 
@@ -23,6 +23,7 @@ def main():
     ap.add_argument("--model", default="openai/whisper-small")
     ap.add_argument("--tag", default="whisper")
     ap.add_argument("--bs", type=int, default=8)
+    ap.add_argument("--clean-only", action="store_true")
     args = ap.parse_args()
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -33,12 +34,11 @@ def main():
     n_keep = int(SEG / SR * 50)
     print(f"Model {args.model} on {device}; pooling first {n_keep} encoder frames (4 s)")
 
-    names = [n for n in ["train", "dev", "eval_seen", "eval_unseen", "eval_ood"]
-             if os.path.exists(os.path.join("meta", f"split_{n}.csv"))]
+    names = split_names()
     splits = {n: read_split(n) for n in names}
     clean = pd.concat(splits.values()).path.unique().tolist()
     augd = pd.concat([splits["train"], splits["dev"]]).path.unique().tolist()
-    jobs = [(p, False) for p in clean] + [(p, True) for p in augd]
+    jobs = [(p, False) for p in clean] + ([] if args.clean_only else [(p, True) for p in augd])
     jobs = [j for j in jobs if not os.path.exists(feat_path(j[0], args.tag, j[1]))]
     print(f"To extract: {len(jobs)} clips")
 

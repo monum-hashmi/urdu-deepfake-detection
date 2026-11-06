@@ -58,6 +58,15 @@ def fix_len(wav, train=False, rng=None):
     return np.tile(wav, reps)[:SEG]
 
 
+def split_names(include_ood=True):
+    """All split files present in meta/: train, dev and every eval_* split."""
+    import glob
+    names = sorted(os.path.basename(f)[6:-4] for f in glob.glob(os.path.join("meta", "split_*.csv")))
+    order = {"train": 0, "dev": 1}
+    names.sort(key=lambda n: (order.get(n, 2), n))
+    return [n for n in names if include_ood or n != "eval_ood"]
+
+
 def read_split(name):
     df = pd.read_csv(os.path.join("meta", f"split_{name}.csv"))
     df["y"] = (df.label == "bonafide").astype(int)     # 1 = bonafide (real), 0 = spoof

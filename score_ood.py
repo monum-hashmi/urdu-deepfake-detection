@@ -28,10 +28,11 @@ def score_run(ckpt, device):
     run = os.path.splitext(os.path.basename(ckpt))[0]
     seen, ood = read_split("eval_seen"), read_split("eval_ood")
     if run.startswith("ssl-"):
-        from train_ssl import LayerMLP, load_feats, scores
+        from train_ssl import LayerMLP, load_feats, pool_from_run, scores
+        pool, layer = pool_from_run(run)
         tag = run.split("_")[0][len("ssl-"):]
         Xs, Xo = load_feats(seen, tag), load_feats(ood, tag)
-        model = LayerMLP(Xs.shape[1], Xs.shape[2]).to(device)
+        model = LayerMLP(Xs.shape[1], Xs.shape[2], pool=pool, layer=layer).to(device)
         model.load_state_dict(torch.load(ckpt, map_location=device))
         s_seen, s_ood = scores(model, Xs, device), scores(model, Xo, device)
     elif run.startswith("lcnn"):

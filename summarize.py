@@ -2,11 +2,12 @@
 Run:  python summarize.py   -> results/summary.csv
 """
 import glob
+import os
 import re
 
 import pandas as pd
 
-files = glob.glob("results/eer_*.csv")
+files = [f for f in glob.glob("results/eer_*.csv") if not os.path.basename(f).startswith("eer_extra_")]
 if not files:
     raise SystemExit("No results yet.")
 df = pd.concat(pd.read_csv(f) for f in files)

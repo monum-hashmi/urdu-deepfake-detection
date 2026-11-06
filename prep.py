@@ -13,7 +13,7 @@ import numpy as np
 import pandas as pd
 import soundfile as sf
 
-from common import load_raw, preprocess, prep_path, read_split
+from common import load_raw, preprocess, prep_path, read_split, split_names
 
 BITRATES = ["24k", "32k", "48k", "64k"]
 
@@ -56,8 +56,7 @@ def job(args):
 
 
 if __name__ == "__main__":
-    splits = {n: read_split(n) for n in ["train", "dev", "eval_seen", "eval_unseen", "eval_ood"]
-              if os.path.exists(os.path.join("meta", f"split_{n}.csv"))}
+    splits = {n: read_split(n) for n in split_names()}
     all_paths = pd.concat(splits.values()).path.unique().tolist()
     aug_paths = pd.concat([splits["train"], splits["dev"]]).path.unique().tolist()
     jobs = [(p, False, 0) for p in all_paths] + \

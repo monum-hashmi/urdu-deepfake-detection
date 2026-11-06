@@ -14,7 +14,7 @@ import pandas as pd
 import torch
 from transformers import Wav2Vec2Model
 
-from common import fix_len, load_prep, prep_path, read_split
+from common import SEG, fix_len, load_prep, prep_path, read_split, split_names
 
 
 def feat_path(path, tag, aug=False):
@@ -27,6 +27,9 @@ def main():
     ap.add_argument("--model", default="facebook/wav2vec2-xls-r-300m")
     ap.add_argument("--tag", default="xlsr")
     ap.add_argument("--bs", type=int, default=8)
+    ap.add_argument("--pad", choices=["repeat", "none"], default="repeat",
+                    help="none = centre-crop long clips but do NOT repeat-pad short ones (crop-policy ablation)")
+    ap.add_argument("--clean-only", action="store_true", help="skip MP3-augmented training copies (CPU-friendly)")
     args = ap.parse_args()
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -36,12 +39,13 @@ def main():
     model = Wav2Vec2Model.from_pretrained(args.model, dtype=dtype).to(device).eval()
     print(f"Model {args.model} on {device}")
 
-    splits = {n: read_split(n) for n in ["train", "dev", "eval_seen", "eval_unseen", "eval_ood"]
-              if os.path.exists(os.path.join("meta", f"split_{n}.csv"))}
+    splits = {n: read_split(n) for n in split_names()}
     clean = pd.concat(splits.values()).path.unique().tolist()
     augd = pd.concat([splits["train"], splits["dev"]]).path.unique().tolist()
-    jobs = [(p, False) for p in clean] + [(p, True) for p in augd]
+    jobs = [(p, False) for p in clean] + ([] if args.clean_only else [(p, True) for p in augd])
     jobs = [j for j in jobs if not os.path.exists(feat_path(j[0], args.tag, j[1]))]
+    if args.pad == "none":
+        args.bs = 1          # variable-length inputs
     print(f"To extract: {len(jobs)} clips")
 
     t0 = time.time()
@@ -49,7 +53,8 @@ def main():
         batch = jobs[b:b + args.bs]
         wavs = []
         for p, a in batch:
-            w = fix_len(load_prep(p, a))
+            w = load_prep(p, a)
+            w = fix_len(w) if (args.pad == "repeat" or len(w) >= SEG) else w
             wavs.append((w - w.mean()) / (w.std() + 1e-7))
         x = torch.from_numpy(np.stack(wavs)).to(device=device, dtype=dtype)
         with torch.no_grad():

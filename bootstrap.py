@@ -32,7 +32,7 @@ def load_runs():
     runs = {}
     for f in sorted(glob.glob(os.path.join("results", "scores_*.csv"))):
         name = os.path.basename(f)[len("scores_"):-4]
-        if name.startswith("ood_"):
+        if name.startswith(("ood_", "extra_")):
             continue
         runs[name] = pd.read_csv(f)
     return runs
