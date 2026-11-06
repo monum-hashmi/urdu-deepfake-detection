@@ -1,0 +1,10 @@
+run,metric,generator,value
+ssl-xlsrnopad_noaug_s2,fa_ood,real_fleurs,8.239700374531834
+ssl-xlsrnopad_noaug_s2,fa_indomain,real,5.7571964956195245
+ssl-xlsrnopad_noaug_s2,eer_ood,ALL,5.220777735573173
+ssl-xlsrnopad_noaug_s2,eer_ood,edge_asad,5.780300239454781
+ssl-xlsrnopad_noaug_s2,eer_ood,edge_uzma,6.6494750414441
+ssl-xlsrnopad_noaug_s2,eer_ood,gtts,0.9716338183827607
+ssl-xlsrnopad_noaug_s2,eer_ood,mms,2.932553570332165
+ssl-xlsrnopad_noaug_s2,eer_ood,tacotron,1.4990636704119868
+ssl-xlsrnopad_noaug_s2,eer_ood,vits,8.755033651544592

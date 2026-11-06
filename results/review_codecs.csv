@@ -1,0 +1,8 @@
+source,error,tool,codec_name,sample_rate,channels,bit_rate
+Microsoft Edge TTS ur-PK-UzmaNeural,No audio was received. Please verify that your parameters are correct.,,,,,
+Microsoft Edge TTS ur-PK-AsadNeural,,edge-tts 7.3.1,mp3,24000,1.0,48000
+Microsoft Edge TTS ur-IN-GulNeural,,edge-tts 7.3.1,mp3,24000,1.0,48000
+Microsoft Edge TTS ur-IN-SalmanNeural,,edge-tts 7.3.1,mp3,24000,1.0,48000
+"Google TTS (gTTS, lang=ur)",,gTTS 2.5.4,mp3,24000,1.0,64000
+MMS-TTS (facebook/mms-tts-urd-script_arabic),,transformers VitsModel,pcm (no compression),16000,1.0,-
+Our MP3 control (real_mp3 / allmp3),,ffmpeg libmp3lame,mp3,24000,1.0,48000

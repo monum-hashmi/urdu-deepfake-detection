@@ -1,0 +1,10 @@
+run,metric,generator,value
+ssl-xlsr_noaug_uniform_s2,fa_ood,real_fleurs,7.490636704119851
+ssl-xlsr_noaug_uniform_s2,fa_indomain,real,6.382978723404255
+ssl-xlsr_noaug_uniform_s2,eer_ood,ALL,6.733200184611114
+ssl-xlsr_noaug_uniform_s2,eer_ood,edge_asad,7.041658991833975
+ssl-xlsr_noaug_uniform_s2,eer_ood,edge_uzma,8.50793577700006
+ssl-xlsr_noaug_uniform_s2,eer_ood,gtts,0.8868269171732064
+ssl-xlsr_noaug_uniform_s2,eer_ood,mms,6.172484189844663
+ssl-xlsr_noaug_uniform_s2,eer_ood,tacotron,1.8113295880149836
+ssl-xlsr_noaug_uniform_s2,eer_ood,vits,10.194024386809723

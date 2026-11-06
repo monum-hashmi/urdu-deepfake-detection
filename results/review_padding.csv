@@ -1,0 +1,13 @@
+split,generator,n,share_padded,median_s
+eval_seen,real,799,0.043,7.264
+eval_seen,tacotron,400,0.138,6.56
+eval_seen,vits,399,0.033,8.832
+eval_unseen,edge_asad,488,0.246,5.008
+eval_unseen,edge_uzma,488,0.264,4.864
+eval_unseen,gtts,488,0.033,6.752
+eval_unseen,mms,488,0.049,6.832
+eval_unseen,real,799,0.043,7.264
+eval_unseen,real_mp3,117,0.06,7.072
+train,real,2199,0.068,6.656
+train,tacotron,1099,0.062,7.232
+train,vits,1099,0.045,8.288

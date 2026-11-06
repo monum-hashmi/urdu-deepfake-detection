@@ -1,0 +1,12 @@
+run,condition,generator,bonafide_ref,eer,n_bona,n_spoof
+aasistL_aug_s1,allmp3_seen_generators,ALL,all_real,28.285356695869833,799,799
+aasistL_aug_s1,allmp3_seen_generators,tacotron,all_real,5.7535982478097605,799,400
+aasistL_aug_s1,allmp3_seen_generators,vits,all_real,41.89102292652783,799,399
+aasistL_aug_s1,allmp3_unseen_generators,ALL,all_real,31.13013320954472,799,1952
+aasistL_aug_s1,allmp3_unseen_generators,edge_asad,all_real,44.55133466012844,799,488
+aasistL_aug_s1,allmp3_unseen_generators,edge_uzma,all_real,26.193602659061533,799,488
+aasistL_aug_s1,allmp3_unseen_generators,gtts,all_real,20.736345636964238,799,488
+aasistL_aug_s1,allmp3_unseen_generators,mms,all_real,28.964868996081172,799,488
+aasistL_aug_s1,extra_voices,ALL,all_real,44.90410656763577,799,976
+aasistL_aug_s1,extra_voices,edge_in_gul,all_real,52.7399772256304,799,488
+aasistL_aug_s1,extra_voices,edge_in_salman,all_real,37.81366051827079,799,488

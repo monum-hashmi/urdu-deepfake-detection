@@ -1,0 +1,211 @@
+=== 1-2. EER (%) with 95% CLUSTERED bootstrap CI (clusters = source utterances); CI averaged over seeds ===
+                  test                   setting  eer_mean  eer_std  ci_low  ci_high  n_seeds
+                  seen        aasistL-pretrained     40.80      NaN   38.94    43.00        1
+                  seen               aasistL_aug     30.35     3.98   28.63    31.98        3
+                  seen             aasistL_noaug     20.59     3.36   18.76    22.27        3
+                  seen                  lcnn_aug     15.96     3.58   14.28    17.60        3
+                  seen                lcnn_noaug     13.31     2.20   11.90    14.93        3
+                  seen           ssl-whisper_aug      9.24     1.76    7.85    10.57        3
+                  seen         ssl-whisper_noaug      8.68     0.70    7.33     9.91        3
+                  seen              ssl-xlsr_aug      8.20     2.27    6.98     9.64        3
+                  seen            ssl-xlsr_noaug      5.36     0.85    4.20     6.44        3
+                  seen     ssl-xlsr_noaug_layer5      3.42     0.52    2.53     4.30        3
+                  seen ssl-xlsr_noaug_trtacotron     29.93     0.70   28.04    31.98        3
+                  seen     ssl-xlsr_noaug_trvits      8.76     1.64    7.43    10.16        3
+                  seen    ssl-xlsr_noaug_uniform      7.24     1.23    6.04     8.63        3
+                  seen       ssl-xlsrnopad_noaug      5.38     1.09    4.31     6.60        3
+          unseen_clean        aasistL-pretrained     65.25      NaN   63.59    66.80        1
+          unseen_clean               aasistL_aug     26.20     7.40   24.17    28.39        3
+          unseen_clean             aasistL_noaug     37.20     2.84   35.38    39.26        3
+          unseen_clean                  lcnn_aug     23.43     5.63   21.75    25.28        3
+          unseen_clean                lcnn_noaug     52.65     3.58   50.99    54.24        3
+          unseen_clean           ssl-whisper_aug     17.78     1.40   16.34    19.25        3
+          unseen_clean         ssl-whisper_noaug     16.40     1.22   15.20    17.70        3
+          unseen_clean              ssl-xlsr_aug      7.49     2.55    6.23     8.66        3
+          unseen_clean            ssl-xlsr_noaug      2.94     1.51    2.24     3.82        3
+          unseen_clean     ssl-xlsr_noaug_layer5      0.02     0.03    0.00     0.10        3
+          unseen_clean ssl-xlsr_noaug_trtacotron     22.57     1.03   20.89    24.28        3
+          unseen_clean     ssl-xlsr_noaug_trvits      4.52     2.18    3.63     5.55        3
+          unseen_clean    ssl-xlsr_noaug_uniform      6.41     1.11    5.16     7.52        3
+          unseen_clean       ssl-xlsrnopad_noaug      3.08     1.42    2.26     3.93        3
+unseen_clean:edge_asad        aasistL-pretrained     77.47      NaN     NaN      NaN        1
+unseen_clean:edge_asad               aasistL_aug     36.50     9.96     NaN      NaN        3
+unseen_clean:edge_asad             aasistL_noaug     53.08     7.82     NaN      NaN        3
+unseen_clean:edge_asad                  lcnn_aug     16.25     7.25     NaN      NaN        3
+unseen_clean:edge_asad                lcnn_noaug     41.98    11.84     NaN      NaN        3
+unseen_clean:edge_asad           ssl-whisper_aug     11.61     1.76     NaN      NaN        3
+unseen_clean:edge_asad         ssl-whisper_noaug     10.45     0.83     NaN      NaN        3
+unseen_clean:edge_asad              ssl-xlsr_aug      9.25     3.51     NaN      NaN        3
+unseen_clean:edge_asad            ssl-xlsr_noaug      3.60     2.20     NaN      NaN        3
+unseen_clean:edge_asad     ssl-xlsr_noaug_layer5      0.00     0.00     NaN      NaN        3
+unseen_clean:edge_asad ssl-xlsr_noaug_trtacotron     34.26     1.95     NaN      NaN        3
+unseen_clean:edge_asad     ssl-xlsr_noaug_trvits      4.73     2.36     NaN      NaN        3
+unseen_clean:edge_asad    ssl-xlsr_noaug_uniform      7.06     1.74     NaN      NaN        3
+unseen_clean:edge_asad       ssl-xlsrnopad_noaug      2.98     1.95     NaN      NaN        3
+unseen_clean:edge_uzma        aasistL-pretrained     77.24      NaN     NaN      NaN        1
+unseen_clean:edge_uzma               aasistL_aug     17.33     8.12     NaN      NaN        3
+unseen_clean:edge_uzma             aasistL_noaug     12.02     5.58     NaN      NaN        3
+unseen_clean:edge_uzma                  lcnn_aug     21.94     7.49     NaN      NaN        3
+unseen_clean:edge_uzma                lcnn_noaug     71.32     2.84     NaN      NaN        3
+unseen_clean:edge_uzma           ssl-whisper_aug      5.80     0.85     NaN      NaN        3
+unseen_clean:edge_uzma         ssl-whisper_noaug      4.28     0.14     NaN      NaN        3
+unseen_clean:edge_uzma              ssl-xlsr_aug      9.65     3.29     NaN      NaN        3
+unseen_clean:edge_uzma            ssl-xlsr_noaug      3.86     1.80     NaN      NaN        3
+unseen_clean:edge_uzma     ssl-xlsr_noaug_layer5      0.00     0.00     NaN      NaN        3
+unseen_clean:edge_uzma ssl-xlsr_noaug_trtacotron     23.89     1.19     NaN      NaN        3
+unseen_clean:edge_uzma     ssl-xlsr_noaug_trvits      5.27     2.61     NaN      NaN        3
+unseen_clean:edge_uzma    ssl-xlsr_noaug_uniform      8.08     1.31     NaN      NaN        3
+unseen_clean:edge_uzma       ssl-xlsrnopad_noaug      3.87     1.65     NaN      NaN        3
+     unseen_clean:gtts        aasistL-pretrained     32.17      NaN     NaN      NaN        1
+     unseen_clean:gtts               aasistL_aug     15.06     6.26     NaN      NaN        3
+     unseen_clean:gtts             aasistL_noaug     38.10     9.25     NaN      NaN        3
+     unseen_clean:gtts                  lcnn_aug     38.04     6.67     NaN      NaN        3
+     unseen_clean:gtts                lcnn_noaug     65.74     3.22     NaN      NaN        3
+     unseen_clean:gtts           ssl-whisper_aug      5.76     1.23     NaN      NaN        3
+     unseen_clean:gtts         ssl-whisper_noaug      4.47     0.12     NaN      NaN        3
+     unseen_clean:gtts              ssl-xlsr_aug      1.50     0.85     NaN      NaN        3
+     unseen_clean:gtts            ssl-xlsr_noaug      0.31     0.31     NaN      NaN        3
+     unseen_clean:gtts     ssl-xlsr_noaug_layer5      0.00     0.00     NaN      NaN        3
+     unseen_clean:gtts ssl-xlsr_noaug_trtacotron      6.63     0.24     NaN      NaN        3
+     unseen_clean:gtts     ssl-xlsr_noaug_trvits      1.01     0.74     NaN      NaN        3
+     unseen_clean:gtts    ssl-xlsr_noaug_uniform      1.66     0.29     NaN      NaN        3
+     unseen_clean:gtts       ssl-xlsrnopad_noaug      0.39     0.14     NaN      NaN        3
+      unseen_clean:mms        aasistL-pretrained     63.10      NaN     NaN      NaN        1
+      unseen_clean:mms               aasistL_aug     23.72    14.33     NaN      NaN        3
+      unseen_clean:mms             aasistL_noaug     34.90     8.04     NaN      NaN        3
+      unseen_clean:mms                  lcnn_aug      6.14     5.56     NaN      NaN        3
+      unseen_clean:mms                lcnn_noaug      6.16     5.66     NaN      NaN        3
+      unseen_clean:mms           ssl-whisper_aug     35.01     2.87     NaN      NaN        3
+      unseen_clean:mms         ssl-whisper_noaug     33.04     3.15     NaN      NaN        3
+      unseen_clean:mms              ssl-xlsr_aug      5.46     1.66     NaN      NaN        3
+      unseen_clean:mms            ssl-xlsr_noaug      2.05     0.77     NaN      NaN        3
+      unseen_clean:mms     ssl-xlsr_noaug_layer5      0.13     0.23     NaN      NaN        3
+      unseen_clean:mms ssl-xlsr_noaug_trtacotron     15.29     1.11     NaN      NaN        3
+      unseen_clean:mms     ssl-xlsr_noaug_trvits      5.37     1.90     NaN      NaN        3
+      unseen_clean:mms    ssl-xlsr_noaug_uniform      6.26     0.99     NaN      NaN        3
+      unseen_clean:mms       ssl-xlsrnopad_noaug      2.65     0.49     NaN      NaN        3
+       unseen_with_mp3        aasistL-pretrained     65.28      NaN   63.70    67.20        1
+       unseen_with_mp3               aasistL_aug     26.17     7.58   24.14    28.54        3
+       unseen_with_mp3             aasistL_noaug     37.48     2.37   35.53    39.61        3
+       unseen_with_mp3                  lcnn_aug     22.57     5.33   20.84    24.20        3
+       unseen_with_mp3                lcnn_noaug     50.57     3.02   48.67    52.29        3
+       unseen_with_mp3           ssl-whisper_aug     17.86     1.49   16.38    19.31        3
+       unseen_with_mp3         ssl-whisper_noaug     16.46     1.31   15.15    17.74        3
+       unseen_with_mp3              ssl-xlsr_aug      7.80     2.70    6.55     9.09        3
+       unseen_with_mp3            ssl-xlsr_noaug      3.27     1.51    2.44     4.07        3
+       unseen_with_mp3     ssl-xlsr_noaug_layer5      0.02     0.03    0.00     0.09        3
+       unseen_with_mp3 ssl-xlsr_noaug_trtacotron     23.09     0.83   21.50    24.89        3
+       unseen_with_mp3     ssl-xlsr_noaug_trvits      4.87     2.09    3.95     5.98        3
+       unseen_with_mp3    ssl-xlsr_noaug_uniform      6.69     1.15    5.48     7.86        3
+       unseen_with_mp3       ssl-xlsrnopad_noaug      3.34     1.66    2.51     4.18        3
+
+=== 3. Paired clustered bootstrap: EER(other) - EER(ssl-xlsr_noaug); one-sided; 2000 draws; smallest resolvable p = 0.0005; Holm over 26 tests ===
+     reference                     other         test  mean_gain  ci_low  ci_high  p_one_sided  p_holm
+ssl-xlsr_noaug        aasistL-pretrained         seen    35.6556 33.4385  37.8870       0.0005  0.0130
+ssl-xlsr_noaug        aasistL-pretrained unseen_clean    62.2095 60.4921  63.8610       0.0005  0.0130
+ssl-xlsr_noaug               aasistL_aug         seen    24.9909 23.3566  26.5693       0.0005  0.0130
+ssl-xlsr_noaug               aasistL_aug unseen_clean    23.2411 21.3113  25.2340       0.0005  0.0130
+ssl-xlsr_noaug             aasistL_noaug         seen    15.1939 13.5884  16.8240       0.0005  0.0130
+ssl-xlsr_noaug             aasistL_noaug unseen_clean    34.3489 32.7691  36.0136       0.0005  0.0130
+ssl-xlsr_noaug                  lcnn_aug         seen    10.6462  9.2305  12.0012       0.0005  0.0130
+ssl-xlsr_noaug                  lcnn_aug unseen_clean    20.5208 19.2240  21.9446       0.0005  0.0130
+ssl-xlsr_noaug                lcnn_noaug         seen     8.1261  6.4741   9.6336       0.0005  0.0130
+ssl-xlsr_noaug                lcnn_noaug unseen_clean    49.6606 47.9345  51.2813       0.0005  0.0130
+ssl-xlsr_noaug           ssl-whisper_aug         seen     3.9118  2.3969   5.4181       0.0005  0.0130
+ssl-xlsr_noaug           ssl-whisper_aug unseen_clean    14.7879 13.3531  16.2604       0.0005  0.0130
+ssl-xlsr_noaug         ssl-whisper_noaug         seen     3.3182  1.7996   4.8102       0.0005  0.0130
+ssl-xlsr_noaug         ssl-whisper_noaug unseen_clean    13.4523 12.1690  14.6971       0.0005  0.0130
+ssl-xlsr_noaug              ssl-xlsr_aug         seen     3.0126  2.3547   3.7259       0.0005  0.0130
+ssl-xlsr_noaug              ssl-xlsr_aug unseen_clean     4.4356  3.7167   5.1282       0.0005  0.0130
+ssl-xlsr_noaug     ssl-xlsr_noaug_layer5         seen    -1.8790 -3.1756  -0.6491       0.9955  1.0000
+ssl-xlsr_noaug     ssl-xlsr_noaug_layer5 unseen_clean    -2.9661 -3.6799  -2.3163       1.0000  1.0000
+ssl-xlsr_noaug ssl-xlsr_noaug_trtacotron         seen    24.6940 22.5803  26.7964       0.0005  0.0130
+ssl-xlsr_noaug ssl-xlsr_noaug_trtacotron unseen_clean    19.5897 17.9380  21.3283       0.0005  0.0130
+ssl-xlsr_noaug     ssl-xlsr_noaug_trvits         seen     3.4954  2.4016   4.7687       0.0005  0.0130
+ssl-xlsr_noaug     ssl-xlsr_noaug_trvits unseen_clean     1.5845  1.0850   2.1254       0.0005  0.0130
+ssl-xlsr_noaug    ssl-xlsr_noaug_uniform         seen     2.0156  1.4129   2.6427       0.0005  0.0130
+ssl-xlsr_noaug    ssl-xlsr_noaug_uniform unseen_clean     3.3357  2.6815   3.9931       0.0005  0.0130
+ssl-xlsr_noaug       ssl-xlsrnopad_noaug         seen     0.1464 -0.1473   0.4650       0.1579  0.6317
+ssl-xlsr_noaug       ssl-xlsrnopad_noaug unseen_clean     0.0517 -0.2275   0.3255       0.3468  1.0000
+
+=== 4. Per-test-speaker EER (%) (mean over seeds) ===
+speaker                                 Speaker_03  Speaker_07  Speaker_11  Speaker_15    min    max
+test         setting                                                                                
+seen         aasistL-pretrained              27.75       35.34       43.75       53.13  27.75  53.13
+             aasistL_aug                     21.67       21.05       31.75       47.20  21.05  47.20
+             aasistL_noaug                   10.58       17.71       19.50       24.73  10.58  24.73
+             lcnn_aug                         6.08       21.72        9.17       15.04   6.08  21.72
+             lcnn_noaug                       4.25       26.48        7.00        8.35   4.25  26.48
+             ssl-whisper_aug                  2.25        6.77        8.17        9.61   2.25   9.61
+             ssl-whisper_noaug                2.08        6.60        8.00        8.94   2.08   8.94
+             ssl-xlsr_aug                     0.83        5.51        3.58        4.18   0.83   5.51
+             ssl-xlsr_noaug                   0.50        3.34        2.50        1.75   0.50   3.34
+             ssl-xlsr_noaug_layer5            0.00        4.76        2.75        0.58   0.00   4.76
+             ssl-xlsr_noaug_trtacotron       27.42       23.64       25.00       45.61  23.64  45.61
+             ssl-xlsr_noaug_trvits            3.67        7.19        1.50        3.93   1.50   7.19
+             ssl-xlsr_noaug_uniform           0.42        5.01        3.25        2.84   0.42   5.01
+             ssl-xlsrnopad_noaug              0.42        4.01        2.08        1.67   0.42   4.01
+unseen_clean aasistL-pretrained              52.38       70.65       74.55       60.15  52.38  74.55
+             aasistL_aug                     22.83       10.35       45.60       19.26  10.35  45.60
+             aasistL_noaug                   37.47       47.20       29.94       30.70  29.94  47.20
+             lcnn_aug                        21.85       29.86       16.83       23.27  16.83  29.86
+             lcnn_noaug                      62.64        7.50       50.90       59.49   7.50  62.64
+             ssl-whisper_aug                  9.35       20.28       24.03       11.45   9.35  24.03
+             ssl-whisper_noaug                8.49       19.36       21.00       11.12   8.49  21.00
+             ssl-xlsr_aug                     1.11       14.31        2.89        2.88   1.11  14.31
+             ssl-xlsr_noaug                   0.23        5.30        0.47        0.76   0.23   5.30
+             ssl-xlsr_noaug_layer5            0.00        0.00        0.00        0.02   0.00   0.02
+             ssl-xlsr_noaug_trtacotron       17.88       18.96       19.55       42.79  17.88  42.79
+             ssl-xlsr_noaug_trvits            0.52        8.85        1.80        0.52   0.52   8.85
+             ssl-xlsr_noaug_uniform           0.80       12.46        1.95        1.82   0.80  12.46
+             ssl-xlsrnopad_noaug              0.21        6.37        0.51        0.62   0.21   6.37
+
+=== 5. Prompt audit ===
+Unique prompts used for the modern-TTS fakes, by the split of their source speaker:
+source_split
+train    314
+test     117
+dev       57
+Transcript similarity, same utterance number / different speakers: mean 0.67 over 919 pairs; random pairs: 0.27
+-> similarity near 1 means utterance numbers index shared prompts read by every speaker.
+Prompts whose utterance number also occurs in the training split: 488 / 488
+Unseen-generator EER (%) by prompt source (mean over seeds):
+                                                 eer                                                     n_fake                                
+subset                    prompts_from_test_speakers prompts_from_train_dev_speakers prompts_from_test_speakers prompts_from_train_dev_speakers
+setting                                                                                                                                        
+aasistL-pretrained                             64.56                           65.31                        468                            1484
+aasistL_aug                                    26.97                           26.05                        468                            1484
+aasistL_noaug                                  37.79                           37.16                        468                            1484
+lcnn_aug                                       23.52                           23.48                        468                            1484
+lcnn_noaug                                     53.30                           52.42                        468                            1484
+ssl-whisper_aug                                18.30                           17.60                        468                            1484
+ssl-whisper_noaug                              17.53                           16.24                        468                            1484
+ssl-xlsr_aug                                    7.64                            7.41                        468                            1484
+ssl-xlsr_noaug                                  2.90                            2.94                        468                            1484
+ssl-xlsr_noaug_layer5                           0.10                            0.01                        468                            1484
+ssl-xlsr_noaug_trtacotron                      23.06                           22.44                        468                            1484
+ssl-xlsr_noaug_trvits                           4.03                            4.76                        468                            1484
+ssl-xlsr_noaug_uniform                          6.19                            6.46                        468                            1484
+ssl-xlsrnopad_noaug                             2.98                            3.09                        468                            1484
+
+=== 6. Training utterances by generator (full train split) ===
+generator  label   
+real       bonafide    2199
+tacotron   spoof       1099
+vits       spoof       1099
+
+=== 7. Share of clips shorter than 4 s after trimming (these are repeat-padded) ===
+                          n  share_padded  median_s
+split       generator                              
+eval_seen   real        799         0.043     7.264
+            tacotron    400         0.138     6.560
+            vits        399         0.033     8.832
+eval_unseen edge_asad   488         0.246     5.008
+            edge_uzma   488         0.264     4.864
+            gtts        488         0.033     6.752
+            mms         488         0.049     6.832
+            real        799         0.043     7.264
+            real_mp3    117         0.060     7.072
+train       real       2199         0.068     6.656
+            tacotron   1099         0.062     7.232
+            vits       1099         0.045     8.288
