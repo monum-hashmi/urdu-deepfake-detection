@@ -1,0 +1,4 @@
+run,n_fake_test_prompts,n_fake_traindev_prompts,eer_test_prompts,eer_traindev_prompts,diff_ci_low,diff_ci_high
+ssl-xlsr_noaug_s0,468,1484,1.03,1.27,-1.19,0.66
+ssl-xlsr_noaug_s1,468,1484,3.23,3.5,-1.52,1.19
+ssl-xlsr_noaug_s2,468,1484,4.43,4.05,-1.41,1.42

@@ -1,0 +1,161 @@
+=== A. Per-seed EER (%) ===
+                         run                   setting  seen  unseen_clean
+       aasistL-pretrained_s0        aasistL-pretrained 40.80         65.25
+              aasistL_aug_s0               aasistL_aug 28.47         30.65
+              aasistL_aug_s1               aasistL_aug 27.66         30.28
+              aasistL_aug_s2               aasistL_aug 34.92         17.66
+            aasistL_noaug_s0             aasistL_noaug 20.90         33.93
+            aasistL_noaug_s1             aasistL_noaug 23.78         38.92
+            aasistL_noaug_s2             aasistL_noaug 17.08         38.76
+                 lcnn_aug_s0                  lcnn_aug 13.89         17.04
+                 lcnn_aug_s1                  lcnn_aug 20.09         27.69
+                 lcnn_aug_s2                  lcnn_aug 13.89         25.55
+               lcnn_noaug_s0                lcnn_noaug 11.20         48.78
+               lcnn_noaug_s1                lcnn_noaug 15.58         55.83
+               lcnn_noaug_s2                lcnn_noaug 13.14         53.35
+          ssl-whisper_aug_s0           ssl-whisper_aug  7.38         16.28
+          ssl-whisper_aug_s1           ssl-whisper_aug 10.89         19.04
+          ssl-whisper_aug_s2           ssl-whisper_aug  9.45         18.03
+        ssl-whisper_noaug_s0         ssl-whisper_noaug  7.88         16.42
+        ssl-whisper_noaug_s1         ssl-whisper_noaug  9.20         15.18
+        ssl-whisper_noaug_s2         ssl-whisper_noaug  8.95         17.61
+             ssl-xlsr_aug_s0              ssl-xlsr_aug  5.63          4.57
+             ssl-xlsr_aug_s1              ssl-xlsr_aug  9.95          8.65
+             ssl-xlsr_aug_s2              ssl-xlsr_aug  9.01          9.27
+    ssl-xlsr_noaug_layer5_s0     ssl-xlsr_noaug_layer5  3.75          0.05
+    ssl-xlsr_noaug_layer5_s1     ssl-xlsr_noaug_layer5  3.69          0.00
+    ssl-xlsr_noaug_layer5_s2     ssl-xlsr_noaug_layer5  2.82          0.00
+           ssl-xlsr_noaug_s0            ssl-xlsr_noaug  4.38          1.24
+           ssl-xlsr_noaug_s1            ssl-xlsr_noaug  5.94          3.47
+           ssl-xlsr_noaug_s2            ssl-xlsr_noaug  5.76          4.11
+ssl-xlsr_noaug_trtacotron_s0 ssl-xlsr_noaug_trtacotron 30.10         23.38
+ssl-xlsr_noaug_trtacotron_s1 ssl-xlsr_noaug_trtacotron 30.54         22.93
+ssl-xlsr_noaug_trtacotron_s2 ssl-xlsr_noaug_trtacotron 29.16         21.41
+    ssl-xlsr_noaug_trvits_s0     ssl-xlsr_noaug_trvits  8.01          3.52
+    ssl-xlsr_noaug_trvits_s1     ssl-xlsr_noaug_trvits  7.63          3.01
+    ssl-xlsr_noaug_trvits_s2     ssl-xlsr_noaug_trvits 10.64          7.01
+   ssl-xlsr_noaug_uniform_s0    ssl-xlsr_noaug_uniform  6.76          6.11
+   ssl-xlsr_noaug_uniform_s1    ssl-xlsr_noaug_uniform  8.64          7.63
+   ssl-xlsr_noaug_uniform_s2    ssl-xlsr_noaug_uniform  6.32          5.47
+      ssl-xlsrnopad_noaug_s0       ssl-xlsrnopad_noaug  4.19          1.49
+      ssl-xlsrnopad_noaug_s1       ssl-xlsrnopad_noaug  6.32          3.52
+      ssl-xlsrnopad_noaug_s2       ssl-xlsrnopad_noaug  5.63          4.23
+
+=== B. Clean unseen set: errors at the EER threshold ===
+                         run   eer  n_real  n_fake  real_rejected  fakes_accepted  fakes_above_lowest_real
+       aasistL-pretrained_s0 65.25     799    1952            522            1272                     1952
+              aasistL_aug_s0 30.65     799    1952            245             598                     1948
+              aasistL_aug_s1 30.28     799    1952            242             591                     1951
+              aasistL_aug_s2 17.66     799    1952            141             345                     1950
+            aasistL_noaug_s0 33.93     799    1952            272             660                     1952
+            aasistL_noaug_s1 38.92     799    1952            310             762                     1952
+            aasistL_noaug_s2 38.76     799    1952            310             756                     1936
+                 lcnn_aug_s0 17.04     799    1952            136             333                     1600
+                 lcnn_aug_s1 27.69     799    1952            221             541                     1650
+                 lcnn_aug_s2 25.55     799    1952            204             499                     1766
+               lcnn_noaug_s0 48.78     799    1952            389             954                     1508
+               lcnn_noaug_s1 55.83     799    1952            446            1090                     1952
+               lcnn_noaug_s2 53.35     799    1952            426            1042                     1838
+          ssl-whisper_aug_s0 16.28     799    1952            130             318                     1301
+          ssl-whisper_aug_s1 19.04     799    1952            152             372                     1519
+          ssl-whisper_aug_s2 18.03     799    1952            144             352                     1521
+        ssl-whisper_noaug_s0 16.42     799    1952            131             321                     1296
+        ssl-whisper_noaug_s1 15.18     799    1952            121             297                     1452
+        ssl-whisper_noaug_s2 17.61     799    1952            141             343                     1267
+             ssl-xlsr_aug_s0  4.57     799    1952             37              88                      506
+             ssl-xlsr_aug_s1  8.65     799    1952             69             169                     1101
+             ssl-xlsr_aug_s2  9.27     799    1952             74             181                     1062
+    ssl-xlsr_noaug_layer5_s0  0.05     799    1952              0               2                        2
+    ssl-xlsr_noaug_layer5_s1  0.00     799    1952              0               0                        0
+    ssl-xlsr_noaug_layer5_s2  0.00     799    1952              0               0                        0
+           ssl-xlsr_noaug_s0  1.24     799    1952             10              24                       71
+           ssl-xlsr_noaug_s1  3.47     799    1952             28              67                      343
+           ssl-xlsr_noaug_s2  4.11     799    1952             33              80                      503
+ssl-xlsr_noaug_trtacotron_s0 23.38     799    1952            187             456                     1950
+ssl-xlsr_noaug_trtacotron_s1 22.93     799    1952            183             448                     1948
+ssl-xlsr_noaug_trtacotron_s2 21.41     799    1952            171             418                     1949
+    ssl-xlsr_noaug_trvits_s0  3.52     799    1952             28              69                      248
+    ssl-xlsr_noaug_trvits_s1  3.01     799    1952             24              59                      303
+    ssl-xlsr_noaug_trvits_s2  7.01     799    1952             56             137                      762
+   ssl-xlsr_noaug_uniform_s0  6.11     799    1952             49             119                      468
+   ssl-xlsr_noaug_uniform_s1  7.63     799    1952             61             149                      894
+   ssl-xlsr_noaug_uniform_s2  5.47     799    1952             44             106                      560
+      ssl-xlsrnopad_noaug_s0  1.49     799    1952             12              29                       88
+      ssl-xlsrnopad_noaug_s1  3.52     799    1952             28              69                      491
+      ssl-xlsrnopad_noaug_s2  4.23     799    1952             34              82                      687
+
+=== C. 95% CI per seed: speaker+utterance clusters vs prompt (utterance-number) clusters ===
+                     run         test   eer  ci_spk_utt  n_clusters_spk_utt   ci_prompt  n_clusters_prompt
+       ssl-xlsr_noaug_s0         seen  4.38   3.14-5.14                 540   3.12-5.12                135
+       ssl-xlsr_noaug_s0 unseen_clean  1.24   0.82-1.83                 910   0.79-1.90                135
+       ssl-xlsr_noaug_s1         seen  5.94   4.92-7.22                 540   4.93-7.32                135
+       ssl-xlsr_noaug_s1 unseen_clean  3.47   2.67-4.39                 910   2.55-4.57                135
+       ssl-xlsr_noaug_s2         seen  5.76   4.49-6.88                 540   4.54-6.92                135
+       ssl-xlsr_noaug_s2 unseen_clean  4.11   3.18-5.15                 910   3.10-5.31                135
+    ssl-whisper_noaug_s0         seen  7.88   6.61-9.22                 540   6.65-9.30                135
+    ssl-whisper_noaug_s0 unseen_clean 16.42 15.24-17.79                 910 15.12-17.86                135
+    ssl-whisper_noaug_s1         seen  9.20  7.65-10.32                 540  7.63-10.32                135
+    ssl-whisper_noaug_s1 unseen_clean 15.18 13.71-16.40                 910 13.73-16.47                135
+    ssl-whisper_noaug_s2         seen  8.95  7.62-10.30                 540  7.68-10.33                135
+    ssl-whisper_noaug_s2 unseen_clean 17.61 16.55-19.02                 910 16.41-19.17                135
+ssl-xlsr_noaug_layer5_s0         seen  3.75   2.93-4.87                 540   2.95-4.90                135
+ssl-xlsr_noaug_layer5_s0 unseen_clean  0.05   0.00-0.27                 910   0.00-0.28                135
+ssl-xlsr_noaug_layer5_s1         seen  3.69   2.82-4.57                 540   2.75-4.69                135
+ssl-xlsr_noaug_layer5_s1 unseen_clean  0.00   0.00-0.00                 910   0.00-0.00                135
+ssl-xlsr_noaug_layer5_s2         seen  2.82   1.87-3.45                 540   1.84-3.50                135
+ssl-xlsr_noaug_layer5_s2 unseen_clean  0.00   0.00-0.00                 910   0.00-0.00                135
+
+=== D. XLS-R clean unseen EER by prompt source, difference (test - train/dev) with 95% CI ===
+              run  n_fake_test_prompts  n_fake_traindev_prompts  eer_test_prompts  eer_traindev_prompts  diff_ci_low  diff_ci_high
+ssl-xlsr_noaug_s0                  468                     1484              1.03                  1.27        -1.19          0.66
+ssl-xlsr_noaug_s1                  468                     1484              3.23                  3.50        -1.52          1.19
+ssl-xlsr_noaug_s2                  468                     1484              4.43                  4.05        -1.41          1.42
+
+=== E. FLEURS EER_OOD (%): pooled vs macro over 6 generators (mean over seeds) ===
+                           pooled  macro  edge_asad  edge_uzma   gtts    mms  tacotron   vits
+setting                                                                                      
+aasistL-pretrained          45.03  42.08      67.21      65.95  21.91  46.38     15.43  35.58
+aasistL_aug                 21.10  18.12      30.53       9.65   8.16  16.54      2.89  40.96
+aasistL_noaug               48.44  44.63      72.31      28.99  59.92  55.42      4.73  46.42
+lcnn_aug                    28.03  23.56      23.38      30.83  50.33   6.89      0.54  29.41
+lcnn_noaug                  45.21  39.20      45.56      88.03  77.33   1.63      2.14  20.49
+ssl-whisper_aug             15.79  13.73      13.28       5.93   5.91  38.98      4.39  13.90
+ssl-whisper_noaug           16.01  12.71      12.13       4.40   4.34  37.90      3.66  13.84
+ssl-xlsr_aug                 9.58   8.13      11.74      12.07   1.44   7.08      1.60  14.86
+ssl-xlsr_noaug               4.29   3.52       4.21       4.50   0.33   2.35      1.12   8.63
+ssl-xlsr_noaug_layer5        5.16   2.87       0.00       0.00   0.00   0.85      0.40  15.95
+ssl-xlsr_noaug_trtacotron   21.59  16.50      30.50      19.96   2.42   9.36      0.00  36.73
+ssl-xlsr_noaug_trvits        5.42   5.45       4.53       4.87   0.98   5.06     13.76   3.50
+ssl-xlsr_noaug_uniform       6.97   6.19       7.46       8.38   1.64   7.02      1.89  10.76
+ssl-xlsrnopad_noaug          4.10   3.53       4.22       4.33   0.68   2.93      0.90   8.13
+
+=== F. XLS-R per speaker: bona fide rejected at the POOLED threshold vs EER with own threshold ===
+                         real_rejected_pct  own_threshold_eer
+test         speaker                                         
+seen         Speaker_03               0.00               0.50
+             Speaker_07              20.83               3.34
+             Speaker_11               0.33               2.50
+             Speaker_15               0.00               1.75
+unseen_clean Speaker_03               0.00               0.23
+             Speaker_07              11.67               5.30
+             Speaker_11               0.17               0.47
+             Speaker_15               0.00               0.76
+
+=== G. Prompt de-duplication ===
+Rows in meta/texts.csv: 510 (sampled with groupby('speaker').sample(n=30, random_state=42))
+Duplicate speaker|utterance keys discarded (later row kept out): 22
+Discarded rows by corpus part: {'Part 2': 15, 'Part 1': 7}
+Kept rows of those keys by part: {'Part 1': 15, 'Part 2': 7}
+Same transcript text within a duplicated key: 0 of 22
+
+=== H. Clips behind the main XLS-R extraction ===
+unique clean clips (train, dev, seen, unseen, FLEURS): 9130
+MP3-augmented copies (train + dev): 5196
+total: 14326
+  dev: 799 unique
+  eval_allmp3: 3550 unique
+  eval_ood: 3018 unique
+  eval_seen: 1598 unique
+  eval_unseen: 2868 unique
+  eval_voices: 1775 unique
+  train: 4397 unique
