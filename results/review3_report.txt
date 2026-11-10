@@ -1,0 +1,164 @@
+=== A/B. 95% interval for the MEAN-over-seeds EER (each draw: same clusters, EER per seed, averaged). Also the EER of the seed-averaged score. ===
+               setting   test          cluster  n_clusters  mean_eer  ci_low  ci_high  eer_of_seed_avg_score
+        ssl-xlsr_noaug   seen      speaker|utt         540      5.36    4.29     6.36                   5.07
+        ssl-xlsr_noaug   seen speaker|part|utt        1199      5.36    4.32     6.37                   5.07
+        ssl-xlsr_noaug unseen      speaker|utt         910      2.94    2.30     3.75                   3.13
+        ssl-xlsr_noaug unseen speaker|part|utt        1170      2.94    2.35     3.72                   3.13
+     ssl-whisper_noaug   seen      speaker|utt         540      8.68    7.50     9.82                   8.39
+     ssl-whisper_noaug   seen speaker|part|utt        1199      8.68    7.36     9.86                   8.39
+     ssl-whisper_noaug unseen      speaker|utt         910     16.40   15.27    17.71                  16.51
+     ssl-whisper_noaug unseen speaker|part|utt        1170     16.40   15.27    17.55                  16.51
+            lcnn_noaug   seen      speaker|utt         540     13.31   12.13    14.76                  12.27
+            lcnn_noaug   seen speaker|part|utt        1199     13.31   11.95    15.08                  12.27
+            lcnn_noaug unseen      speaker|utt         910     52.65   51.25    54.05                  54.45
+            lcnn_noaug unseen speaker|part|utt        1170     52.65   51.33    53.98                  54.45
+         aasistL_noaug   seen      speaker|utt         540     20.59   19.15    21.81                  18.02
+         aasistL_noaug   seen speaker|part|utt        1199     20.59   19.08    21.96                  18.02
+         aasistL_noaug unseen      speaker|utt         910     37.20   35.82    38.95                  36.17
+         aasistL_noaug unseen speaker|part|utt        1170     37.20   35.67    38.88                  36.17
+ ssl-xlsr_noaug_layer5   seen      speaker|utt         540      3.42    2.65     4.20                   3.00
+ ssl-xlsr_noaug_layer5   seen speaker|part|utt        1199      3.42    2.60     4.24                   3.00
+ ssl-xlsr_noaug_layer5 unseen      speaker|utt         910      0.02    0.00     0.10                   0.00
+ ssl-xlsr_noaug_layer5 unseen speaker|part|utt        1170      0.02    0.00     0.10                   0.00
+ssl-xlsr_noaug_uniform   seen      speaker|utt         540      7.24    6.18     8.60                   7.13
+ssl-xlsr_noaug_uniform   seen speaker|part|utt        1199      7.24    6.09     8.48                   7.13
+ssl-xlsr_noaug_uniform unseen      speaker|utt         910      6.41    5.22     7.49                   6.11
+ssl-xlsr_noaug_uniform unseen speaker|part|utt        1170      6.41    5.32     7.42                   6.11
+   ssl-xlsrnopad_noaug   seen      speaker|utt         540      5.38    4.39     6.46                   5.51
+   ssl-xlsrnopad_noaug   seen speaker|part|utt        1199      5.38    4.42     6.45                   5.51
+   ssl-xlsrnopad_noaug unseen      speaker|utt         910      3.08    2.33     3.79                   2.90
+   ssl-xlsrnopad_noaug unseen speaker|part|utt        1170      3.08    2.34     3.80                   2.90
+          ssl-xlsr_aug   seen      speaker|utt         540      8.20    7.16     9.44                   8.14
+          ssl-xlsr_aug   seen speaker|part|utt        1199      8.20    7.03     9.52                   8.14
+          ssl-xlsr_aug unseen      speaker|utt         910      7.49    6.34     8.55                   6.76
+          ssl-xlsr_aug unseen speaker|part|utt        1170      7.49    6.43     8.48                   6.76
+              lcnn_aug   seen      speaker|utt         540     15.96   14.75    17.07                  11.89
+              lcnn_aug   seen speaker|part|utt        1199     15.96   14.84    17.08                  11.89
+              lcnn_aug unseen      speaker|utt         910     23.43   22.24    24.76                  23.29
+              lcnn_aug unseen speaker|part|utt        1170     23.43   22.25    24.77                  23.29
+           aasistL_aug   seen      speaker|utt         540     30.35   29.11    31.50                  28.29
+           aasistL_aug   seen speaker|part|utt        1199     30.35   28.79    31.76                  28.29
+           aasistL_aug unseen      speaker|utt         910     26.20   24.56    28.07                  24.86
+           aasistL_aug unseen speaker|part|utt        1170     26.20   24.78    27.86                  24.86
+       ssl-whisper_aug   seen      speaker|utt         540      9.24    8.05    10.46                   8.64
+       ssl-whisper_aug   seen speaker|part|utt        1199      9.24    7.93    10.48                   8.64
+       ssl-whisper_aug unseen      speaker|utt         910     17.78   16.43    19.22                  17.29
+       ssl-whisper_aug unseen speaker|part|utt        1170     17.78   16.44    19.13                  17.29
+
+=== C. Per test speaker at the pooled EER threshold (mean over seeds) ===
+                                      bona_rejected  seen_fakes_accepted
+setting            test   speaker                                       
+aasistL-pretrained seen   Speaker_03          12.50                52.00
+                          Speaker_07          45.00                28.64
+                          Speaker_11          57.50                26.50
+                          Speaker_15          48.24                56.00
+                   unseen Speaker_03          30.50                  NaN
+                          Speaker_07          80.50                  NaN
+                          Speaker_11          94.00                  NaN
+                          Speaker_15          56.28                  NaN
+aasistL_noaug      seen   Speaker_03          20.17                 6.33
+                          Speaker_07          35.00                11.56
+                          Speaker_11          11.33                32.33
+                          Speaker_15          15.91                32.00
+                   unseen Speaker_03          38.50                  NaN
+                          Speaker_07          59.17                  NaN
+                          Speaker_11          24.00                  NaN
+                          Speaker_15          27.14                  NaN
+lcnn_noaug         seen   Speaker_03          23.33                 0.83
+                          Speaker_07           0.17                41.04
+                          Speaker_11           6.83                10.83
+                          Speaker_15          22.95                 0.67
+                   unseen Speaker_03          85.83                  NaN
+                          Speaker_07           7.17                  NaN
+                          Speaker_11          45.83                  NaN
+                          Speaker_15          71.69                  NaN
+ssl-whisper_noaug  seen   Speaker_03           0.17                 6.50
+                          Speaker_07          13.50                 1.51
+                          Speaker_11          18.17                 3.17
+                          Speaker_15           3.18                23.17
+                   unseen Speaker_03           2.50                  NaN
+                          Speaker_07          23.83                  NaN
+                          Speaker_11          33.50                  NaN
+                          Speaker_15           5.70                  NaN
+ssl-xlsr_noaug     seen   Speaker_03           0.00                 5.33
+                          Speaker_07          20.83                 0.00
+                          Speaker_11           0.33                 8.67
+                          Speaker_15           0.00                 7.67
+                   unseen Speaker_03           0.00                  NaN
+                          Speaker_07          11.67                  NaN
+                          Speaker_11           0.17                  NaN
+                          Speaker_15           0.00                  NaN
+
+=== D. AASIST-L (ASVspoof weights): orientation check ===
+  test   eer  eer_flipped   auc  median_real  median_fake generator  frac_fake_above_median_real
+  seen 40.80        59.20 64.25        -2.54        -3.05       NaN                          NaN
+  seen   NaN          NaN   NaN          NaN        -4.20  tacotron                        11.25
+  seen   NaN          NaN   NaN          NaN        -2.30      vits                        58.40
+unseen 65.25        34.75 33.81        -2.54        -1.24       NaN                          NaN
+unseen   NaN          NaN   NaN          NaN        -0.61 edge_asad                        99.39
+unseen   NaN          NaN   NaN          NaN        -0.65 edge_uzma                        99.39
+unseen   NaN          NaN   NaN          NaN        -3.40      gtts                        20.29
+unseen   NaN          NaN   NaN          NaN        -1.55       mms                        80.12
+
+=== E. No padding minus default (XLS-R), mean-over-seeds EER difference, 95% interval ===
+  test  diff_nopad_minus_default  ci_low  ci_high
+  seen                      0.02   -0.15     0.46
+unseen                      0.14   -0.21     0.33
+
+=== F. 22 lost prompts: corpus part ===
+        kept (488)  lost (22)  all sampled (510)
+part                                            
+Part 1         253          7                260
+Part 2         235         15                250
+
+prompt length (characters):
+        kept   lost
+count  488.0   22.0
+mean    86.8  102.4
+std     35.2   41.4
+min     31.0   50.0
+25%     62.0   72.5
+50%     79.0   90.5
+75%     99.0  128.8
+max    222.0  209.0
+
+lost per speaker:
+speaker
+Speaker_01    1
+Speaker_02    2
+Speaker_04    1
+Speaker_05    1
+Speaker_06    1
+Speaker_07    1
+Speaker_08    2
+Speaker_09    2
+Speaker_10    1
+Speaker_13    2
+Speaker_14    3
+Speaker_15    2
+Speaker_16    2
+Speaker_17    1
+
+=== G. Per-seed EER of the key ablations (3 runs each) ===
+                         run                   setting  seen  unseen_clean
+             ssl-xlsr_aug_s0              ssl-xlsr_aug  5.63          4.57
+             ssl-xlsr_aug_s1              ssl-xlsr_aug  9.95          8.65
+             ssl-xlsr_aug_s2              ssl-xlsr_aug  9.01          9.27
+    ssl-xlsr_noaug_layer5_s0     ssl-xlsr_noaug_layer5  3.75          0.05
+    ssl-xlsr_noaug_layer5_s1     ssl-xlsr_noaug_layer5  3.69          0.00
+    ssl-xlsr_noaug_layer5_s2     ssl-xlsr_noaug_layer5  2.82          0.00
+           ssl-xlsr_noaug_s0            ssl-xlsr_noaug  4.38          1.24
+           ssl-xlsr_noaug_s1            ssl-xlsr_noaug  5.94          3.47
+           ssl-xlsr_noaug_s2            ssl-xlsr_noaug  5.76          4.11
+ssl-xlsr_noaug_trtacotron_s0 ssl-xlsr_noaug_trtacotron 30.10         23.38
+ssl-xlsr_noaug_trtacotron_s1 ssl-xlsr_noaug_trtacotron 30.54         22.93
+ssl-xlsr_noaug_trtacotron_s2 ssl-xlsr_noaug_trtacotron 29.16         21.41
+    ssl-xlsr_noaug_trvits_s0     ssl-xlsr_noaug_trvits  8.01          3.52
+    ssl-xlsr_noaug_trvits_s1     ssl-xlsr_noaug_trvits  7.63          3.01
+    ssl-xlsr_noaug_trvits_s2     ssl-xlsr_noaug_trvits 10.64          7.01
+   ssl-xlsr_noaug_uniform_s0    ssl-xlsr_noaug_uniform  6.76          6.11
+   ssl-xlsr_noaug_uniform_s1    ssl-xlsr_noaug_uniform  8.64          7.63
+   ssl-xlsr_noaug_uniform_s2    ssl-xlsr_noaug_uniform  6.32          5.47
+      ssl-xlsrnopad_noaug_s0       ssl-xlsrnopad_noaug  4.19          1.49
+      ssl-xlsrnopad_noaug_s1       ssl-xlsrnopad_noaug  6.32          3.52
+      ssl-xlsrnopad_noaug_s2       ssl-xlsrnopad_noaug  5.63          4.23

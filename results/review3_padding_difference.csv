@@ -1,0 +1,3 @@
+test,diff_nopad_minus_default,ci_low,ci_high
+seen,0.02,-0.15,0.46
+unseen,0.14,-0.21,0.33

@@ -1,0 +1,9 @@
+test,eer,eer_flipped,auc,median_real,median_fake,generator,frac_fake_above_median_real
+seen,40.8,59.2,64.25,-2.54,-3.05,,
+seen,,,,,-4.2,tacotron,11.25
+seen,,,,,-2.3,vits,58.4
+unseen,65.25,34.75,33.81,-2.54,-1.24,,
+unseen,,,,,-0.61,edge_asad,99.39
+unseen,,,,,-0.65,edge_uzma,99.39
+unseen,,,,,-3.4,gtts,20.29
+unseen,,,,,-1.55,mms,80.12
