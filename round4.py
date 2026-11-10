@@ -1,6 +1,6 @@
 """Review round 3, extra controls (main .venv):
 
-  python round4.py fleurs      download FLEURS Urdu TEST split (mixed gender) and write
+  python round4.py fleurs      download a balanced male/female sample of the FLEURS Urdu TRAIN split and write
                                meta/split_eval_ood2.csv (FLEURS test + the unseen fakes)        [note 14]
   python round4.py parler      write meta/split_eval_parler.csv (test-speaker real + Parler fakes) [11, 12]
                                (run parler_gen.py in .venv_parler first)
@@ -21,21 +21,28 @@ from round3 import _thr_at
 
 
 def cmd_fleurs():
+    """FLEURS Urdu dev and test are female-only; the TRAIN split has both genders. We take a balanced
+    random sample of 300 male + 300 female train clips (FLEURS train is never used for training here)."""
     from huggingface_hub import hf_hub_download
     root = os.path.join("data", "fleurs_raw")
-    tsv = hf_hub_download("google/fleurs", "data/ur_pk/test.tsv", repo_type="dataset", local_dir=root)
-    tgz = hf_hub_download("google/fleurs", "data/ur_pk/audio/test.tar.gz", repo_type="dataset", local_dir=root)
-    out = os.path.join("data", "fleurs_ur")
-    if not os.path.isdir(os.path.join(out, "test")):
-        with tarfile.open(tgz) as tf:
-            tf.extractall(out)
+    tsv = hf_hub_download("google/fleurs", "data/ur_pk/train.tsv", repo_type="dataset", local_dir=root)
     f = pd.read_csv(tsv, sep="\t", header=None, quoting=3)
-    f["path"] = [os.path.join(out, "test", n) for n in f[1]]
+    f = pd.concat([g.sample(min(300, len(g)), random_state=0) for _, g in f.groupby(6)])
+    out = os.path.join("data", "fleurs_ur")
+    want = set(f[1])
+    have = {os.path.basename(p) for p in glob.glob(os.path.join(out, "train", "*.wav"))}
+    if not want <= have:
+        tgz = hf_hub_download("google/fleurs", "data/ur_pk/audio/train.tar.gz", repo_type="dataset",
+                              local_dir=root)
+        with tarfile.open(tgz) as tf:
+            members = [m for m in tf.getmembers() if os.path.basename(m.name) in want]
+            tf.extractall(out, members=members)
+    f["path"] = [os.path.join(out, "train", n) for n in f[1]]
     f = f[[os.path.exists(p) for p in f.path]]
-    print("FLEURS test clips:", len(f), "| gender:", f[6].value_counts().to_dict(),
+    print("FLEURS train sample:", len(f), "| gender:", f[6].value_counts().to_dict(),
           "| sentences:", f[0].nunique())
     real = pd.DataFrame(dict(path=f.path, label="bonafide", generator="real_fleurs_" + f[6].str.lower(),
-                             speaker="fleurs_test", split="test", condition="ood2"))
+                             speaker="fleurs_train", split="test", condition="ood2"))
     uns = pd.read_csv(os.path.join("meta", "split_eval_unseen.csv"))
     fakes = uns[uns.label == "spoof"].assign(condition="ood2")
     pd.concat([real, fakes]).to_csv(os.path.join("meta", "split_eval_ood2.csv"), index=False)
